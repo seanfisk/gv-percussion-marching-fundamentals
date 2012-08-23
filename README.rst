@@ -1,6 +1,6 @@
 Drumline marching fundamentals packet for `Grand Valley State University`_ `Laker Marching Band`_.
 
-Written by Michael Johnson and Sean Fisk.
+Written by Sean Fisk, Christa Formberg, and Michael Johnson.
 
 Written and edited using LyX_, a graphical LaTeX_ editor.
 
