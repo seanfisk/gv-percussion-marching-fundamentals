@@ -464,7 +464,7 @@ Repeat steps 1-4 for the specified counts, as shown in the following music.
 \begin_layout Standard
 \begin_inset Graphics
 	filename chromatic-flash-step.png
-	clip
+	width 100text%
 
 \end_inset
 
