@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass scrartcl
+\begin_preamble
+\date{}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -66,6 +69,16 @@ Percussion Marching Fundamentals
 
 \begin_layout Subtitle
 GVSU Laker Marching Band
+\end_layout
+
+\begin_layout Section
+Purpose
+\end_layout
+
+\begin_layout Standard
+This guide is provided as an addendum to the normal GVSU Laker Marching
+ Band Marching Fundamentals handbook.
+ Please consult it where mentioned in this handbook.
 \end_layout
 
 \begin_layout Section
@@ -497,6 +510,15 @@ Bounce Step
 
 \begin_layout Standard
 Percussion does not perform this step.
+\end_layout
+
+\begin_layout Section*
+Authors
+\end_layout
+
+\begin_layout Standard
+This guide was written by Sean Fisk, Christa Formberg, Michael Johnson,
+ and Matt Michalak.
 \end_layout
 
 \end_body
