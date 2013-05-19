@@ -229,11 +229,44 @@ Tenors
 \end_layout
 
 \begin_layout Itemize
+Tacet hands float above 
+\begin_inset Quotes eld
+\end_inset
 
-\series bold
-TODO
-\series default
- Add tenor technique
+home base
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Right hand over drum 1
+\end_layout
+
+\begin_layout Itemize
+Left over drum 2
+\end_layout
+
+\begin_layout Itemize
+Both sticks straight out and toward the edge of the drum
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Slight downward angle of forearms and sticks into the head
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Zones
+\begin_inset Quotes erd
+\end_inset
+
+ are defined as three fingers from the rim
 \end_layout
 
 \begin_layout Subsection
